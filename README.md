@@ -11,6 +11,9 @@
 - Download builds here: [Google Drive](https://drive.google.com/drive/folders/18h7izlH_RPC5JURUA8oXUgQxQbKZk_Os?usp=drive_link)
 - XDA Thread: [https://xdaforums.com/t/rom-unofficial-lineageos-23-2-for-oneplus-ace-6-ktm](https://xdaforums.com/t/rom-unofficial-lineageos-23-2-for-oneplus-ace-6-ktm.4781127/)
 
+### PixelOS UNOFFICIAL
+- Download builds here: [Google Drive](https://drive.google.com/drive/folders/18h7izlH_RPC5JURUA8oXUgQxQbKZk_Os?usp=drive_link)
+
 ### OrangeFox Recovery
 - Download builds here: [Github Releases](https://github.com/NullCode1337/android_device_orangefox_ktm/releases/latest)
 - XDA Thread: [https://xdaforums.com/t/recovery-unofficial-orangefox-recovery-r11-3_2-for-oneplus-ace-6-ktm](https://xdaforums.com/t/recovery-unofficial-orangefox-recovery-r11-3_2-for-oneplus-ace-6-ktm.4774231/)
