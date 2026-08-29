@@ -1,7 +1,6 @@
 <manifest>
   <remote name="lineage" fetch="https://github.com/LineageOS" revision="lineage-23.2" />
   <remote name="voltage" fetch="https://github.com/Ace6-Development" revision="voltage-17" />
-  <remote name="infinity-ktm" fetch="https://github.com/Ace6-Development" revision="infinity-16" />
   <remote name="ktm" fetch="https://github.com/Ace6-Development" revision="lineage-23.2" />
 
   <project path="device/oneplus/ktm" remote="voltage" name="android_device_oneplus_ktm" />
