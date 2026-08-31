@@ -1,6 +1,7 @@
 # Ace 6 Development 
 
 - By [NullCode1337](https://github.com/NullCode1337)
+- Donate: 0xbca960f45a87a02801d045763dc49f28390d9207 USDT BSC
 
 ## Releases
 ### Project Infinity-X OFFICIAL
@@ -11,7 +12,7 @@
 - Download builds here: [Google Drive](https://drive.google.com/drive/folders/18h7izlH_RPC5JURUA8oXUgQxQbKZk_Os?usp=drive_link)
 - XDA Thread: [https://xdaforums.com/t/rom-unofficial-lineageos-23-2-for-oneplus-ace-6-ktm](https://xdaforums.com/t/rom-unofficial-lineageos-23-2-for-oneplus-ace-6-ktm.4781127/)
 
-### PixelOS UNOFFICIAL
+### EvolutionX UNOFFICIAL
 - Download builds here: [Google Drive](https://drive.google.com/drive/folders/18h7izlH_RPC5JURUA8oXUgQxQbKZk_Os?usp=drive_link)
 
 ### OrangeFox Recovery
