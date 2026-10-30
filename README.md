@@ -8,8 +8,8 @@
 - Download builds here: [https://projectinfinity-x.com/downloads/ktm](https://projectinfinity-x.com/downloads/ktm)
 - XDA Thread: [https://xdaforums.com/t/rom-16-official-ktm-project-infinity-x-for-oneplus-ace-6](https://xdaforums.com/t/rom-16-official-ktm-project-infinity-x-for-oneplus-ace-6.4781480/)
 
-### LineageOS UNOFFICIAL
-- Download builds here: [Google Drive](https://drive.google.com/drive/folders/18h7izlH_RPC5JURUA8oXUgQxQbKZk_Os?usp=drive_link)
+### LineageOS OFFICIAL
+- Download builds here: [https://wiki.lineageos.org/devices/ktm/](https://wiki.lineageos.org/devices/ktm/)
 - XDA Thread: [https://xdaforums.com/t/rom-unofficial-lineageos-23-2-for-oneplus-ace-6-ktm](https://xdaforums.com/t/rom-unofficial-lineageos-23-2-for-oneplus-ace-6-ktm.4781127/)
 
 ### EvolutionX UNOFFICIAL
